@@ -1,0 +1,10 @@
+[Event "Casual Club Game"]
+[Site "Oak Park Community Center"]
+[Date "2023.02.16"]
+[White "Rody Y"]
+[Black "Shane J"]
+[Variant "Standard"]
+[Termination "Normal"]
+[TimeControl "900+10"]
+
+1. b4 d5 2. b5 a6 3. e3 axb5 4. Bxb5+ Bd7 5. Nc3 Nf6 6. Bb2 Bxb5 7. Nxb5 c6 8. Nd4 Qb6 9. Bc3 c5 10. Rb1 Qd6 11. Nb5 Qc6 12. Nf3 Nbd7 13. a3 Ne4 14. Ne5 Nxc3 15. Nxc6 Nxd1 16. Nc7# { White wins by checkmate. } 1-0

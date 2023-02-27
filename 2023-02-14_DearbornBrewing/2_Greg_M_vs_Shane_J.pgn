@@ -1,0 +1,12 @@
+[Event "Casual Club Game"]
+[Site "Dearborn Brewing"]
+[Date "2023.02.14"]
+[White "Greg M"]
+[Black "Shane J"]
+[Variant "Standard"]
+[Termination "Normal"]
+[TimeControl "600+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 exd4 5. c3 Na5 6. Bxf7+ Kxf7 7. Ne5+ Kf8 8.
+Qh5 Qe7 9. Ng6+ hxg6 10. Qxh8 Qxe4+ 11. Kf1 d3 12. Nd2 Qe2+ { White resigns. }
+0-1
