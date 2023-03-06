@@ -6,7 +6,6 @@
 [WhiteElo "1560"]
 [BlackElo "1678"]
 [Variant "Standard"]
-[ECO "C20"]
 [Termination "Normal"]
 [TimeControl "900+10"]
 
