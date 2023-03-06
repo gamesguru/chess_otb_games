@@ -1,10 +1,18 @@
 [Event "Casual OTB Game"]
-[Site "Oak Park Community Center"]
-[Date "2023.03.02"]
+[Site "Oakland County (Methodist Church, Waterford)"]
+[Date "2023.03.05"]
 [White "Gabe H"]
 [Black "Shane J"]
 [Variant "Standard"]
 [Termination "Normal"]
 [TimeControl "900+10"]
 
-
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 d6 7. Bd3 Nf6 8.
+Bg5 h6 9. Bh4 Ne5 10. Nd5 g5 11. Nxb6 axb6 12. Bg3 Bg4 13. f3 Nxd3+ 14. Qxd3 Be6
+15. a3 Nh5 16. Qc3 f6 17. Nd4 Qd7 18. Nxe6 Qxe6 19. Qxc7 Nxg3 20. Qxb7 Rc8 21.
+hxg3 Rxc2 22. Qb8+ Kd7 23. Qb7+ Rc7 24. Qxb6 Qc4 25. Rd1 Rc6 26. Qd4 Qxd4 27.
+Rxd4 Rhc8 (27... Rc2 28. Rd2 Rc1+ 29. Rd1 Rc2 30. O-O Rxb2) 28. Ke2 Rc2+ 29. Rd2
+g4 30. Rxh6 gxf3+ 31. gxf3 Ke7 32. Rh7+ Ke6 33. Rb7 R2c7 34. Rxc7 Rxc7 35. Kd3
+d5 36. exd5+ Kxd5 37. Rc2 Rb7 38. b4 Ra7 39. Rc5+ Kd6 40. Ra5 Rc7 41. a4 Rb7 42.
+Ra6+ Ke5 43. b5 f5 44. Ra8 f4 45. Re8+ Kd5 46. gxf4 Rf7 47. Re5+ Kd6 48. Re4 Ra7
+49. Rc4 Ra5 50. b6 Ra8 51. b7 Rb8 52. Rb4 Kc5 53. Rb1 { Black resigns. } 1-0
