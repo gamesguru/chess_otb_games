@@ -1,0 +1,18 @@
+[Event "Casual Club Game"]
+[Site "Dearborn Brewing"]
+[Date "2023.03.07"]
+[White "Alex B"]
+[Black "Shane J"]
+[WhiteElo "1650"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[Termination "Normal"]
+[TimeControl "900+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 h6 5. d3 Nf6 6. Be3 Bxe3 7. fxe3 d6 8. O-O
+O-O 9. Ne2 Na5 10. Bb3 Nxb3 11. axb3 Bg4 12. Ng3 c6 13. h3 Be6 14. Nf5 Kh7 15.
+g4 g6 16. Nxh6 Nd7 (16... Kxh6 17. g5+ Kg7 18. gxf6+ Qxf6) 17. g5 Bxh3 18. Rf2
+Kg7 19. Rh2 Be6 20. Qe2 d5 21. Rf1 dxe4 22. dxe4 f6 23. Rd1 fxg5 24. Nxe5 Qe7
+(24... Nxe5 25. Rxd8 Raxd8 26. Kg2 Rh8) 25. Nxg6 Kxg6 26. Qh5+ Kf6 27. Rg2 Qg7
+28. Rxg5 Qh7 (28... Qxg5+) 29. Ng4+ Bxg4 30. Qxh7 Kxg5 31. Qe7+ Kg6 32. Rd6+ Kh5
+33. Qh7+ { Black resigns. } 1-0
