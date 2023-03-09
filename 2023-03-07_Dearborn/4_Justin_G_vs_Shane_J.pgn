@@ -1,0 +1,15 @@
+[Event "Casual OTB Game"]
+[Site "Dearborn Brewing"]
+[Date "2023.03.07"]
+[White "Justin G"]
+[Black "Shane J"]
+[WhiteElo "1350"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[Termination "Normal"]
+[TimeControl "900+10"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. Nf3 e6 5. e3 c5 6. Be2 Nc6 7. Na4 Qa5+ 8. Nc3
+cxd4 9. Nxd4 Bb4 10. a3 Bxc3+ 11. bxc3 Qxc3+ 12. Kf1 e5 13. Nxc6 bxc6 14. Bg3
+Ne4 15. f3 Nxg3+ 16. hxg3 Qxe3 17. Rb1 O-O 18. Rb3 Qa7 19. Bd3 f5 20. g4 h6 21.
+Rh5 e4 22. fxe4 fxe4+ 23. Ke2 Qf2# 0-1
